@@ -107,7 +107,7 @@
 			meta: [
 				{charset: 'utf-8'},
 				{name: 'viewport', content: 'width=device-width, initial-scale=1'},
-				{hid: 'description', name: 'description', content: 'Diligent full-stack web developer, who is very familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams.'}
+				{hid: 'description', name: 'description', content: 'Get to know me better with my work experiences and volunteer activities. A self-managed person who is always pushing herself to deliver ongoing process improvements.'}
 			],
 		}
 	}

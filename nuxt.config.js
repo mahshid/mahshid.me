@@ -8,7 +8,7 @@ export default {
 		meta: [
 			{charset: 'utf-8'},
 			{name: 'viewport', content: 'width=device-width, initial-scale=1'},
-			{hid: 'description', name: 'description', content: process.env.npm_package_description || 'Diligent full-stack web developer, who is very familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams.'}
+			{hid: 'description', name: 'description', content: process.env.npm_package_description || 'An ambitious, diligent full-stack web developer, who is familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams.'}
 		],
 		link: [
 			{rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Pacifico'},
