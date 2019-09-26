@@ -1,2 +1,2 @@
 # mahshid.me
-Mahshid Hajiani's prsonal website
+Mahshid Hajiani's personal website
