@@ -5,7 +5,7 @@
 				<ul class="list-unstyled px-3">
 					<li class="title-color font-weight-bold">Who:</li>
 					<li>
-						<a href="/">Mahshid Hajiani</a> - <a href="https://goo.gl/maps/oeGppYsKo8M5SeBq8" target="_blank">Qorveh, Kurdistan</a> - Web Developer
+						<a href="/">Mahshid Hajyani</a> - <a href="https://goo.gl/maps/snEaQD3cayAp5UfG6" target="_blank">London, UK</a> - Web Developer
 					</li>
 					<li class="mt-5 mx-sm-5">
 						<a href="https://www.facebook.com/mahshid.hajiani" title="My Facebook" target="_blank">
